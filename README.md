@@ -25,4 +25,4 @@
     </a>
  
 </p>
-[https://crisel8a.github.io/Portafolio-Personal/](https://crisel8a.github.io/pag-club-divulgacion-esfm))
+(https://crisel8a.github.io/pag-club-divulgacion-esfm)(http://club.esfmdivulga.com/)
