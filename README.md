@@ -25,4 +25,7 @@
     </a>
  
 </p>
-(https://crisel8a.github.io/pag-club-divulgacion-esfm)(http://club.esfmdivulga.com/)
+
+(http://club.esfmdivulga.com/)
+
+(https://crisel8a.github.io/pag-club-divulgacion-esfm)
